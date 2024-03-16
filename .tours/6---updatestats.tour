@@ -27,13 +27,13 @@
     },
     {
       "file": "main.js",
-      "line": 211,
-      "description": "The next 3 lines of code should then:\r\n- Get the name of the player using the `playerIndex` you just created in your for loop on the `currentPlayers` list, and saving the id in a variable called `playerName`\r\n- Get the PER for that player using the `playerName` and `currentQuarter` on the `playerMap` and saving it to a variable called `playerPER`\r\n- Add the `playerPER` to the `quarterPER`\r\n\r\nMake sure you close your for-loop!"
+      "line": 221,
+      "description": "Calculate the average PER for the quarter."
     },
     {
       "file": "main.js",
-      "line": 221,
-      "description": "Calculate the average PER for the quarter."
+      "line": 211,
+      "description": "The next 3 lines of code should then:\r\n- Get the name of the player using the `playerIndex` you just created in your for loop on the `currentPlayers` list, and saving the id in a variable called `playerName`\r\n- Get the PER for that player using the `playerName` and `currentQuarter` on the `playerMap` and saving it to a variable called `playerPER`\r\n- Add the `playerPER` to the `quarterPER`\r\n\r\nMake sure you close your for-loop!"
     },
     {
       "file": "main.js",
